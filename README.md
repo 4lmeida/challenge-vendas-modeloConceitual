@@ -1,4 +1,4 @@
-# desafio-vendas-BD
+# challenge-vendas-BD
 
 - Classes/Conceitos 
 ![image](https://user-images.githubusercontent.com/93017964/184138991-b590f2fe-c694-4bec-8526-549006dd14b1.png)
